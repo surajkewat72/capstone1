@@ -1,5 +1,7 @@
 # NST DVA Capstone 2 - Project Repository
 
+## Dashboard URL : https://public.tableau.com/app/profile/suraj.kewat/viz/RetailSalesDashboard_17773605413330/RetailSalesDashboard?publish=yes
+
 **Newton School of Technology | Data Visualization & Analytics**  
 A 2-week industry simulation capstone using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
 
