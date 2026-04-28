@@ -2,6 +2,12 @@
 
 ## Dashboard URL : https://public.tableau.com/app/profile/suraj.kewat/viz/RetailSalesDashboard_17773605413330/RetailSalesDashboard?publish=yes
 
+## Presentation URL : https://drive.google.com/file/d/19jacdpIYXt1wqNPXKdDeOSEVkmhqWN6F/view?usp=sharing
+
+## Dataset URL : https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis
+
+## Report URL : https://docs.google.com/document/d/1n_1pIj4tTLQ9ES0iiIqoYDjnBA7krxM-CVxZ3V39vUU/edit?usp=sharing
+
 **Newton School of Technology | Data Visualization & Analytics**  
 A 2-week industry simulation capstone using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
 
