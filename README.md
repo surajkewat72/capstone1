@@ -5,6 +5,9 @@
 [![Tableau](https://img.shields.io/badge/Dashboard-Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+
+## PUBLIC URL: https://public.tableau.com/app/profile/suraj.kewat/viz/RetailSalesDashboard_17773605413330/RetailSalesDashboard?publish=yes
+
 ## 📋 Project Overview
 This capstone project provides a comprehensive end-to-end data analytics solution for a retail business. By transforming over **9,400 raw transaction records** into actionable intelligence, the project identifies key revenue drivers, customer behavior patterns, and operational efficiencies. The final output includes a robust Python-based analytical pipeline and an interactive **Tableau Dashboard** for executive decision-making.
 
